@@ -1,0 +1,25 @@
+{
+    "name": "bitcoinvietnam/bitcoinvncloud-php",
+    "description": "A wrapper for consuming the API endpoints of bitcoinvn.cloud",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Winter",
+            "email": "alex@bitcoinvn.io"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "jms/serializer": "^2.2",
+        "doctrine/common": "^2.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "BitcoinVietnam\\BitcoinVnCloud\\": "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.2"
+    }
+}

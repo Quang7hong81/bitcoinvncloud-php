@@ -1,0 +1,61 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: alexwinter
+ * Date: 2019-03-28
+ * Time: 11:40
+ */
+
+namespace BitcoinVietnam\BitcoinVnCloud\Response\NewOrder;
+
+use JMS\Serializer\Annotation as Serializer;
+
+class Data
+{
+    /**
+     * @var string
+     *
+     * @Serializer\Type("string")
+     */
+    private $symbol;
+
+    /**
+     * @var string
+     *
+     * @Serializer\Type("string")
+     * @Serializer\SerializedName("orderUuid")
+     */
+    private $orderUuid;
+
+    /**
+     * @var int
+     *
+     * @Serializer\Type("integer")
+     * @Serializer\SerializedName("orderTime")
+     */
+    private $orderTime = 0;
+
+    /**
+     * @return string
+     */
+    public function getSymbol(): string
+    {
+        return $this->symbol;
+    }
+
+    /**
+     * @return string
+     */
+    public function getOrderUuid(): string
+    {
+        return $this->orderUuid;
+    }
+
+    /**
+     * @return int
+     */
+    public function getOrderTime(): int
+    {
+        return $this->orderTime;
+    }
+}
