@@ -39,6 +39,6 @@ abstract class BaseRequest implements RequestInterface
      */
     public function getEndpoint(): string
     {
-        return $this->endpoint;
+        return (string) $this->endpoint;
     }
 }
