@@ -31,7 +31,7 @@ abstract class BaseRequest implements RequestInterface
      */
     public function getMethod(): string
     {
-        return $this->method;
+        return (string) $this->method;
     }
 
     /**
