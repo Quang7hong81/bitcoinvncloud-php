@@ -11,7 +11,7 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^6.3",
-        "jms/serializer": "^2.2",
+        "jms/serializer": "^1.13",
         "doctrine/common": "^2.10"
     },
     "autoload": {
