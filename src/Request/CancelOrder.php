@@ -30,5 +30,8 @@ final class CancelOrder extends BaseRequest
     {
         $this->symbol = $symbol;
         $this->orderUuid = $orderUuid;
+
+        $this->method = 'post';
+        $this->endpoint = '/order/cancel';
     }
 }
