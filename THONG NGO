@@ -1,5 +1,5 @@
-THONG NGO
-# BitcoinVN.io
+#THONG NGO
+BitcoinVN.io
 travis_fold:start:worker_info
 
 [0K [33;1mWorker information [0m
@@ -794,4 +794,6 @@ travis_time:end:0272f1ca:start=1619430112105692655,finish=1619430113175806109,
 duration=1070113454,event=cache
 [0Ktravis_fold:end:cache.2
 [0K
+email: quangthong1011@gmail.com
+Name: THONG NGO
 Done. Your build exited with 0.
