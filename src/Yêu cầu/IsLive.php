@@ -1,10 +1,10 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: alexwinter
- * Date: 2019-03-27
- * Time: 15:33
- */
+ * Được tạo ra bởi: Ngô Quang Thông
+ * Người dùng: bitcoinvn
+ * Ngày: 09 Jul 2021
+ * Time:01:04:17
+ * /
 
 namespace BitcoinVietnam\BitcoinVnCloud\Request;
 
@@ -12,7 +12,7 @@ final class IsLive extends BaseRequest
 {
     /**
      * IsLive constructor.
-     */
+     * / 
     public function __construct()
     {
         $this->method = 'get';
