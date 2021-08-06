@@ -40,5 +40,5 @@ NGO QUANG THONG
 Date Date: 24/07/2021
 Creative Commons is not a party to this agreement and does not provide legal advice. Please visit creativecommons.org for more information and specific
 disclaimers.
-NGO QUANG THONG NGO
+NGO QUANG THONG
 24/07/2021 
