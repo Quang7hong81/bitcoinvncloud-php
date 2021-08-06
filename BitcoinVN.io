@@ -34,10 +34,11 @@ entity, such as an agency of the United States government.
 5. For record keeping purposes, Author requests that Publisher sign a copy of this Addendum and return it to Author. However, if
 Publisher publishes the Article in the journal or in any other form without signing a copy of this Addendum, such publication
 manifests Publisher's assent to the terms of this Addendum.
-AUTHOR PUBLISHER
+AUTHOR PUBLISHER 
+NGO QUANG THONG
 (corresponding author on behalf of all authors)
-Date Date
+Date Date: 24/07/2021
 Creative Commons is not a party to this agreement and does not provide legal advice. Please visit creativecommons.org for more information and specific
 disclaimers.
-NGO QUANG THONG NGO QUANG THONG
-24/07/2021 24/07/2021  
+NGO QUANG THONG NGO
+24/07/2021 
