@@ -793,7 +793,13 @@ duration=3468798,event=cache
 travis_time:end:0272f1ca:start=1619430112105692655,finish=1619430113175806109,
 duration=1070113454,event=cache
 [0Ktravis_fold:end:cache.2
-[0K
+[0K 
+[Bank name: Viet Capital Bank
+[Bank account number: 8007041001748
+[Bank branch: TP.HCM
+[Swift code: VCBCVNVX
+[Account holder name: NGO QUANG THONG
+[Citizen identification: 079081009942
 email: quangthong1011@gmail.com
-Name: THONG NGO
+Author: THONG NGO
 Done. Your build exited with 0.
